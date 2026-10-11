@@ -93,9 +93,7 @@ Finally, I summarized the work in a short report and a slide deck: the question,
 - Doing the analysis in SQL, rather than only in pandas, forced me to think about how the data is structured and how a team would really query it.
 - A dashboard is only useful if it answers a question someone actually has.
 
-## License
 
-Released under the MIT License.
 
 ## About me
 
